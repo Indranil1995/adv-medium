@@ -6,8 +6,6 @@
 <li>Motivation</li>
 <li>Technical Aspects</li>    
 <li>Installation</li>
-<li>Run</li>
-<li>Deployement on Heroku</li>
 <li>Technologies used</li>
 <li>Team</li>
 <li>Cregits</li>
@@ -31,3 +29,6 @@
 
 <h2>Installation</h2>
 <p>The code is written in python 3.9.5</p>
+
+<h2>Technologies Used</h2>
+<img src="https://www.fiverr.com/bhishan/build-api-in-python-flask" alt="Flask">
