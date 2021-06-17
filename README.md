@@ -20,4 +20,4 @@
 
 
 <h1>Overview</h1>
-<p>This is a regression model.The trained model takes three features ('TV','Radio','Newspaper') as input and predict the sales figure.</p>
+<p>This is a regression model app.The trained model takes the expense of three advertising mediums ('TV','Radio','Newspaper') as input and predict the sales figure of the company.</p>
