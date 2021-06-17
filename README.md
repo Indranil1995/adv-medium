@@ -14,7 +14,7 @@
 </ul>
 
 <h1>Demo</h1>
-<link rel="stylesheet" href="https://adv-medium.herokuapp.com/">
+<link rel="stylesheet" href="https://adv-medium.herokuapp.com">
 <br>
 <img src="https://infinitycoaching.net/wp-content/uploads/2018/12/sale-2065116_960_720.jpg" alt="sales fig">
 
