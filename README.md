@@ -41,3 +41,8 @@
 
 <h2>Team<h2>
 <p>Indranil Biswas<p>  
+
+<h2>Credits</h2>
+<p>Kaggle: This project wouldn't have been possible without this dataset.A huge shout out for kaggle.</p>  
+  
+  
