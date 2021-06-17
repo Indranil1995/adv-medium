@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sales fig</title>
+</head>
+
+<body>
+    <center>
+
+    
+    <div class="login">
+        <h1>Predict sales fig</h1>
+        <form action="{{ url_for('predict')}}" method="post">
+            <input type="text" name="tv" placeholder="TV" required="required" />
+            <input type="text" name="radio" placeholder="Radio" required="required" />
+            <input type="text" name="newspaper" placeholder="Newspaper" required="required" />
+            <button type="submit" class="btn btn-success">Predict</button>
+        </form>
+
+           
+        <br>
+        <br>
+        {{prediction_text}}
+        <br>
+    <img src="https://infinitycoaching.net/wp-content/uploads/2018/12/sale-2065116_960_720.jpg" alt="sales">
+
+    </center> 
+    </div>
+</body>
+
+</html>
