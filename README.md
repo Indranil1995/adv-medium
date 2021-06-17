@@ -1,6 +1,6 @@
 # adv-medium
 <h1>Project's Content</h1>
-<ol>
+<ul>
 <li>Demo</li>
 <li>Overview</li>
 <li>Motivation</li>
@@ -11,4 +11,4 @@
 <li>Technologies used</li>
 <li>Team</li>
 <li>Cregits</li>
-</ol>
+</ul>
