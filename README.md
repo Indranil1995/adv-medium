@@ -24,3 +24,7 @@
 
 <h1>Motivation</h1>
 <p>When marketers and media planners create marketing campaigns, they must carefully consider the merits of each type of advertising media. Each type of advertising media communicates marketing messages to potential customers through different mediums and this led me to create this model.</p>
+
+<h1>Technical Aspects</h1>
+<p>Training a regression model using sklearn.</p>
+<p>Building and hosting a Flask web app on Heroku.</p>
