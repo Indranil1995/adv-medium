@@ -13,5 +13,11 @@
 <li>Cregits</li>
 </ul>
 
+<h1>Demo</h1>
+<https://adv-medium.herokuapp.com/>
+<br>
+<img src="https://infinitycoaching.net/wp-content/uploads/2018/12/sale-2065116_960_720.jpg" alt="sales fig">
+
+
 <h1>Overview</h1>
 <p>This is a regression model.The trained model takes three features ('TV','Radio','Newspaper') as input and predict the sales figure.</p>
