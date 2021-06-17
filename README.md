@@ -28,3 +28,6 @@
 <h1>Technical Aspects</h1>
 <p>Training a regression model using sklearn.</p>
 <p>Building and hosting a Flask web app on Heroku.</p>
+
+<h1>Installation</h1>
+<p>The code is written in python 3.9.5</p>
