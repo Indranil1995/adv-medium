@@ -12,3 +12,6 @@
 <li>Team</li>
 <li>Cregits</li>
 </ul>
+
+<h1>Overview</h1>
+<p>This is a regression model.The trained model takes three features ('TV','Radio','Newspaper') as input and predict the sales figure.</p>
