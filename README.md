@@ -21,3 +21,6 @@
 
 <h1>Overview</h1>
 <p>This is a regression model app.The trained model takes the expense of three advertising mediums ('TV','Radio','Newspaper') as input and predict the sales figure of the company.</p>
+
+<h1>Motivation</h1>
+<p>When marketers and media planners create marketing campaigns, they must carefully consider the merits of each type of advertising media. Each type of advertising media communicates marketing messages to potential customers through different mediums and this led me to create this model.</p>
