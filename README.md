@@ -31,4 +31,11 @@
 <p>The code is written in python 3.9.5</p>
 
 <h2>Technologies Used</h2>
-<img src="https://www.fiverr.com/bhishan/build-api-in-python-flask" alt="Flask">
+<ul>
+<li>SKlearn</li>
+<li>Numpy</li>
+<li>Flask</li>
+<li>Gunicorn</li>
+<li>Jinja2</li>
+</ul>
+
